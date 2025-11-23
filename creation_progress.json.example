@@ -1,0 +1,20 @@
+{
+  "+5511999999999": {
+    "day": 3,
+    "total_created": 30,
+    "last_creation_date": "2024-01-15",
+    "created_groups": [
+      {
+        "name": "GRUPO EXEMPLO 1",
+        "id": 1234567890,
+        "date": "2024-01-13"
+      },
+      {
+        "name": "GRUPO EXEMPLO 2",
+        "id": 1234567891,
+        "date": "2024-01-13"
+      }
+    ]
+  }
+}
+
